@@ -3,8 +3,8 @@
 A responsive and modern website for a local barbershop, built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Includes a homepage, about, services, and contact form with interactive features like dark mode and scroll-to-top.
 
 ## 🔗 Live Demo
-[View the website here](https://yourusername.github.io/barbershop-site/)  
-*(Replace `yourusername` with your actual GitHub username)*
+[View the website here](https://Gomezpo.github.io/barbershop-site/)  
+
 
 ---
 
